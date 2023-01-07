@@ -54,6 +54,8 @@ another_file.ext
 ; Optionally many more patches
 ```
 
+Further details:
+https://yurisk.info/2017/05/22/XCK-and-CRK-file-formats-for-binary-patching-in-windows/
 
 Installation
 ------------
